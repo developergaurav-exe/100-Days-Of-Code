@@ -5,3 +5,5 @@ game_data.py
 Prof Pic.jpg
 keys.py
 api_keys.py
+venv
+.DS_Store
